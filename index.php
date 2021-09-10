@@ -9,6 +9,7 @@
 <body>
     <p>Hai Nama Saya Kayla Rahmanisa</p> <br>
     <p>Saya Berumur 17 tahun</p> <br>
-    <p>Rumah Saya di Jl.Sukamenak Margahayu Bandung</p>
+    <p>Rumah Saya di Jl.Sukamenak Margahayu Bandung</p> <br>
+    <p>Saya Sekola di SMK ASSALAAM BANDUNG</p> <br>
 </body>
 </html>
