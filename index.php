@@ -12,5 +12,6 @@
     <p>Rumah Saya di Jl.Sukamenak Margahayu Bandung</p> <br>
     <p>Saya Sekola di SMK ASSALAAM BANDUNG</p> <br>
     <p>Saya Anak ke 3 dari 4 Bersaudara</p> <br>
+    <p>Sekian Wass</p> <br>
 </body>
 </html>
